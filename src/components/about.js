@@ -101,7 +101,7 @@ class About extends Component {
         <Heading>{title}</Heading>
         <FlexContainer>
           <ContentContainer>
-            <span dangerouslySetInnerHTML={{ __html: html }} />
+            <div dangerouslySetInnerHTML={{ __html: html }} />
           </ContentContainer>
           <PicContainer>
             <AvatarContainer>
