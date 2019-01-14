@@ -1,7 +1,6 @@
 module.exports = {
-  siteTitle: 'Ankush Mehta | Front-End Ninja',
-  siteDescription:
-    'I am passionate about creating a big, positive impact on the world through the development of new technology.',
+  siteTitle: 'Front-End Ninja',
+  siteDescription: 'Eat Sleep Code Repeat.',
   siteKeywords:
     'Ankush Mehta, Ankush, Mehta, nkshio, software engineer, front-end engineer, web developer, javascript, remote',
   siteUrl: 'https://nksh.io',
