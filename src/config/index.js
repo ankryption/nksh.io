@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Front-End Ninja',
+  siteTitle: 'JavaScript Ninja',
   siteDescription: 'Eat Sleep Code Repeat.',
   siteKeywords:
     'Ankush Mehta, Ankush, Mehta, nkshio, software engineer, front-end engineer, web developer, javascript, remote',
