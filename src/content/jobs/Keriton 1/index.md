@@ -1,6 +1,6 @@
 ---
 date: '2016-10-16'
-title: 'Lead Frontend Engineer'
+title: 'Frontend Engineer'
 company: 'Keriton'
 location: 'Remote, USA'
 range: 'Oct 2016 - Oct 2017'
