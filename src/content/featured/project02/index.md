@@ -11,4 +11,4 @@ tech:
   - Mercury Parser
 ---
 
-web-trails is a platform where humans (and bots) from all branches of software development join hands to build a dashboard of your choice, served on your computer and is not influenced by the marketting algorithms of big tech corporates.
+web-trails is an open-source platform where humans (and bots) from all branches of software development join hands to build a dashboard of your choice, served on your computer and is not influenced by the marketting algorithms of big tech corporates.
