@@ -1,14 +1,15 @@
 ---
-date: '2018-12-31'
-title: 'Web Trails'
-cover: './web-trails.png'
-github: 'https://github.com/nkshio/web-trails'
-external: ''
+date: '2018-31-12'
+title: 'Keriton Kare'
+cover: './keriton.jpg'
+github: ''
+external: 'https://www.keriton.com/products/'
 tech:
-  - Electron
-  - Vue & Vuex
-  - NeDB
-  - Mercury Parser
+  - AngularJs
+  - Ionic
+  - Cordova
+  - NodeJs
+  - AWS
 ---
 
-web-trails is an open-source platform where humans (and bots) from all branches of software development join hands to build a dashboard of your choice, served on your computer and is not influenced by the marketting algorithms of big tech corporates.
+The Keriton Kare platform is a set of 2 cross-platform (iOS & Android) apps that integrates 4 solutions - a feeding management system, a real-time lactation anayltics dashboard, text/audio/video chat, and a photo-sharing tool - all on a single platform!
