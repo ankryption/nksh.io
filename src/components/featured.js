@@ -161,7 +161,8 @@ const Project = styled.div`
   &:last-of-type {
     margin-bottom: 0;
   }
-  &:nth-of-type(odd) {
+  &:nth-of-type(odd),
+  &:nth-of-type(even) {
     ${ContentContainer} {
       grid-column: 7 / -1;
       text-align: right;
