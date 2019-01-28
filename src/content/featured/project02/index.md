@@ -1,7 +1,7 @@
 ---
 date: '2018-31-12'
 title: 'Keriton Kare'
-cover: './keriton.jpg'
+cover: './keriton.png'
 github: ''
 external: 'https://www.keriton.com/products/'
 tech:

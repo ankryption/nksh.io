@@ -117,7 +117,7 @@ const ImgContainer = styled.div`
   position: relative;
   z-index: 1;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.green};
+  background-color: transparent;
   border-radius: 2px;
   grid-column: 6 / -1;
   grid-row: 1 / -1;
@@ -215,7 +215,7 @@ class Featured extends Component {
 
     return (
       <FeaturedContainer id="projects">
-        <Heading ref={el => (this.featured = el)}>Things I’m Proud To Have Done</Heading>
+        <Heading ref={el => (this.featured = el)}>I’m Proud To Have Done</Heading>
         <FeaturedGrid>
           {data &&
             data.map(({ node }, i) => {
