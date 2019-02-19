@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Ankush Mehta'
-subtitle: 'Eat Code Sleep Repeat.'
+subtitle: 'Eat Sleep Code Repeat.'
 contactText: 'Get In Touch'
 ---
 
