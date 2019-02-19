@@ -1,5 +1,5 @@
 ---
-date: '2019-01-01'
+date: '2018-31-12'
 title: 'SAP Analytics Cloud'
 cover: './sap-cloud.png'
 github: ''

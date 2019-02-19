@@ -1,5 +1,5 @@
 ---
-date: '2018-31-12'
+date: '2019-01-01'
 title: 'Keriton Kare'
 cover: './keriton.png'
 github: ''
