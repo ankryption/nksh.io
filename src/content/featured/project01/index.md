@@ -1,15 +1,14 @@
 ---
-date: '2018-31-12'
-title: 'SAP Analytics Cloud'
-cover: './sap-cloud.png'
-github: ''
-external: 'https://http://missingbasti.com/'
+date: '2019-01-01'
+title: 'Keriton Kare'
+cover: './keriton.png'
+external: 'https://www.keriton.com/products/'
 tech:
-  - JS
-  - HTML / CSS
-  - Highcharts
-  - Gerrit
-  - Maven
+  - Angular 1.x
+  - Ionic
+  - Cordova
+  - NodeJs
+  - AWS
 ---
 
-From financial planning to sales and marketing, SAP Analytics Cloud helps businesses make end-to end decisions with confidence. I was part of the fire-fighters team working directly under the CTO of SAP.
+The Keriton Kare platform is a set of 2 cross-platform (iOS & Android) apps that integrates 4 solutions - a feeding management system, a real-time lactation anayltics dashboard, text/audio/video chat, and a photo-sharing tool - all on a single platform!

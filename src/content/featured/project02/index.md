@@ -1,15 +1,11 @@
 ---
-date: '2019-01-01'
-title: 'Keriton Kare'
-cover: './keriton.png'
-github: ''
-external: 'https://www.keriton.com/products/'
+date: '2018-31-12'
+title: 'Sufal (सुफल)'
+cover: './sufal.png'
+external: 'https://sufal.in/'
 tech:
-  - AngularJs
-  - Ionic
-  - Cordova
-  - NodeJs
-  - AWS
+  - React Native
+  - Firebase
 ---
 
-The Keriton Kare platform is a set of 2 cross-platform (iOS & Android) apps that integrates 4 solutions - a feeding management system, a real-time lactation anayltics dashboard, text/audio/video chat, and a photo-sharing tool - all on a single platform!
+Sufal helps farmers grow a low pesticide residue crop. It notifies and monitors the needful actions of the season. It helps farmers to connect directly with buyers. It also provides the information around farming, pest management, and related best practices.

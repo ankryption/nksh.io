@@ -1,14 +1,15 @@
 ---
 date: '2018-01-01'
-title: 'Web Trails'
-cover: './web-trails.png'
-github: 'https://github.com/nkshio/web-trails'
-external: ''
+title: 'SAP Analytics Cloud'
+cover: './sap-cloud.png'
+github: 'https://github.com/nkshio/visualizations'
+external: 'https://www.sapanalytics.cloud/product/planning/'
 tech:
-  - Electron
-  - Vue & Vuex
-  - NeDB
-  - Mercury Parser
+  - JS
+  - HTML / CSS
+  - Highcharts
+  - Gerrit
+  - Maven
 ---
 
-web-trails is an open-source platform where humans (and bots) from all branches of software development join hands to build a dashboard of your choice, served on your computer and is not influenced by the marketting algorithms of big tech corporates.
+From financial planning to sales and marketing, SAP Analytics Cloud helps businesses make end-to end decisions with confidence. I was part of the fire-fighters team working directly under the CTO of SAP.
