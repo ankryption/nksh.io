@@ -5,7 +5,7 @@ import ScrollReveal from 'scrollreveal';
 import { srConfig } from '../config';
 import { IconGithub, IconExternal, IconFolder } from './icons';
 import styled from 'styled-components';
-import { theme, mixins, media, Section, Button } from '../styles';
+import { theme, mixins, media, Section } from '../styles';
 const { colors, fontSizes, fonts } = theme;
 
 const ProjectsContainer = styled(Section)`
@@ -103,9 +103,6 @@ const TechList = styled.ul`
       margin-right: 0;
     }
   }
-`;
-const ShowMoreButton = styled(Button)`
-  margin: 100px auto 0;
 `;
 
 class Projects extends Component {
@@ -216,10 +213,6 @@ class Projects extends Component {
               })}
           </TransitionGroup>
         </ProjectsGrid>
-
-        <ShowMoreButton onClick={this.showMoreToggle}>
-          {showMore ? 'Fewer' : 'More'} Projects
-        </ShowMoreButton>
       </ProjectsContainer>
     );
   }
