@@ -1,9 +1,9 @@
 ---
 date: '2019-01-01'
-title: 'dev-terminal'
+title: 'smart-bash'
 image: ''
-github: 'https://github.com/nkshio/dev-terminal'
-external: 'https://github.com/nkshio/dev-terminal'
+github: 'https://github.com/nkshio/smart-bash'
+external: 'https://github.com/nkshio/smart-bash'
 tech:
   - Git
   - Bash (Unix)
