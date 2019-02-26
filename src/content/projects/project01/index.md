@@ -10,4 +10,4 @@ tech:
 show: 'true'
 ---
 
-Modify your Bash (Unix shell) to monitor & display current time, pwd, git repository and status. It sets some frequently used commands as aliases, and lets you do much more with smart aliases.
+Modify your Bash (Unix shell) to monitor & display current time, pwd, git repository and status. It also sets some frequently used commands as aliases, and lets you do much more with smart aliases.

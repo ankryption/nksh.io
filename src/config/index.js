@@ -8,7 +8,7 @@ module.exports = {
 
   name: 'Ankush Mehta',
   location: 'New Delhi, India',
-  email: 'ping@nksh.io',
+  email: 'email@nksh.io',
   socialMedia: [
     {
       name: 'Github',
